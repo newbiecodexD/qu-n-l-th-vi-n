@@ -1,4 +1,4 @@
-# Xin Chào! Tôi Là Lê Công Minh👋
+![image](https://github.com/user-attachments/assets/34beac1b-3f9d-478c-8100-c4c456d2131a)# Xin Chào! Tôi Là Lê Công Minh👋
 
 
 
@@ -6,6 +6,7 @@
 
 Tôi là một [chức danh nghề nghiệp, ví dụ: lập trình viên, nhà phát triển phần mềm, sinh viên] đam mê công nghệ và học hỏi những điều mới. Hiện tại, tôi đang làm việc với các công nghệ như [liệt kê các công nghệ bạn đang sử dụng, ví dụ: JavaScript, React, Node.js, MongoDB].
 
+Screenshot 2024-10-15 143526.png
 ### Sở Thích
 
 - **Lập trình**: Tôi thích viết mã và giải quyết vấn đề.
