@@ -16,7 +16,7 @@ Quản Lý Thư Viện là một ứng dụng giúp quản lý sách, người d
 
 ## Công Nghệ Sử Dụng
 
-- **Frontend**: ReactJS
+- **Frontend**: ReactJS 
 - **Backend**: NodeJS, Express
 - **Cơ sở dữ liệu**: MongoDB
 - **Thư viện**: Mongoose, Axios
