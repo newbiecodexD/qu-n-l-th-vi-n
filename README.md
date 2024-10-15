@@ -1,4 +1,4 @@
- Xin Chào! Tôi Là Lê Công Minh👋
+ Xin Chào! Tôi Là Lê Công Minh👋 Thành viên của nhóm 3 môn CNPM nâng cao thứ 3 ca 3
 
 
 
