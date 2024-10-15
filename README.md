@@ -32,5 +32,5 @@ Quản Lý Thư Viện là một ứng dụng giúp quản lý sách, người d
 1. **Clone repository:**
 
    ```bash
-   git clone https://github.com/username/library-management.git
+   git clone https://github.com/newbiecodexD/qu-n-l-th-vi-n.git
    cd library-management
